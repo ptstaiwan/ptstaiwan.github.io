@@ -2,19 +2,19 @@
   font-family: 'ldi';
   font-weight: normal;
   font-style: normal;
-  src: url("/assets/lib/ldui/fonts/ldi.ttf") format('truetype');
+  src: url("/subsidy/assets/lib/ldui/fonts/ldi.ttf") format('truetype');
 }
 @font-face {
   font-family: 'noto';
   font-weight: normal;
   font-style: normal;
-  src: url("/assets/fonts/noto-regular.ttf") format('truetype');
+  src: url("/subsidy/assets/fonts/noto-regular.ttf") format('truetype');
 }
 @font-face {
   font-family: 'noto';
   font-weight: bold;
   font-style: normal;
-  src: url("/assets/fonts/noto-bold.ttf") format('truetype');
+  src: url("/subsidy/assets/fonts/noto-bold.ttf") format('truetype');
 }
 html,
 body {
