@@ -1,0 +1,67 @@
+@media (max-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+  .margin {
+    padding: 0;
+    margin: 0;
+  }
+  .hint {
+    display: none;
+  }
+  h2 {
+    font-size: 1.5rem !important;
+  }
+  .btn.btn-md {
+    font-size: 1rem;
+    padding: 0.1875rem 0.75rem !important;
+    background: color-orange;
+    color: #fff !important;
+  }
+  .votee {
+    width: 82px;
+    height: 82px;
+  }
+  .votee.sm {
+    width: 70px;
+    height: 70px;
+  }
+  .rwd-lg {
+    width: 100% !important;
+  }
+  .votee.active {
+    width: 142px;
+    height: 142px;
+  }
+  .interview {
+    margin-left: 0;
+    margin-right: 0;
+  }
+  #hero .title {
+    margin: auto;
+  }
+  #hero .vertical-center {
+    padding-bottom: 1.5rem;
+  }
+  #hero .vertical-center > * {
+    vertical-align: bottom !important;
+  }
+  #who-list {
+    overflow-x: scroll;
+    overflow-y: hidden;
+    flex-direction: row-reverse;
+    justify-content: start !important;
+    flex-wrap: nowrap !important;
+  }
+  #who-list:before,
+  #who-list:after {
+    content: " ";
+    display: block;
+    padding: 1rem;
+  }
+}
+@media (max-width: 320px) {
+  html {
+    font-size: 12px;
+  }
+}

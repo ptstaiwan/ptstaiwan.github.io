@@ -1,0 +1,242 @@
+.svg-sprite {
+  display: inline-block;
+  position: relative;
+}
+.svg-sprite:before {
+  content: " ";
+  width: 100%;
+  display: block;
+  background-image: url(/assets/sprite/svg-sprite.svg);
+}
+.svg-sprite[data-name="/assets/img/ic_backspace.svg"] {
+  width: 18px;
+}
+.svg-sprite[data-name="/assets/img/ic_backspace.svg"]:before {
+  background-size: 14029.66111111111%;
+  background-position: 0% 0%;
+  padding-top: 66.66666666666666%!important
+}
+.svg-sprite[data-name="/assets/img/ic_expand_more.svg"] {
+  width: 14px;
+}
+.svg-sprite[data-name="/assets/img/ic_expand_more.svg"]:before {
+  background-size: 18038.135714285712%;
+  background-position: 0.7963879030270307% 0%;
+  padding-top: 61.74999999999999%!important
+}
+.svg-sprite[data-name="/assets/img/ic_close_24px.svg"] {
+  width: 18px;
+}
+.svg-sprite[data-name="/assets/img/ic_close_24px.svg"]:before {
+  background-size: 14029.66111111111%;
+  background-position: 1.4357851092333347% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_play_circle_filled.svg"] {
+  width: 43.805px;
+}
+.svg-sprite[data-name="/assets/img/ic_play_circle_filled.svg"]:before {
+  background-size: 5764.956055244835%;
+  background-position: 2.256668657370804% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_sms.svg"] {
+  width: 20px;
+}
+.svg-sprite[data-name="/assets/img/ic_sms.svg"]:before {
+  background-size: 12626.695%;
+  background-position: 4.063521942539513% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_poll.svg"] {
+  width: 18px;
+}
+.svg-sprite[data-name="/assets/img/ic_poll.svg"]:before {
+  background-size: 14029.66111111111%;
+  background-position: 4.937704873573139% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_search.svg"] {
+  width: 20px;
+}
+.svg-sprite[data-name="/assets/img/ic_search.svg"]:before {
+  background-size: 12626.695%;
+  background-position: 5.739941780333919% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_facebook.svg"] {
+  width: 36px;
+}
+.svg-sprite[data-name="/assets/img/ic_facebook.svg"]:before {
+  background-size: 7014.830555555555%;
+  background-position: 6.660603477469321% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_nav.svg"] {
+  width: 22px;
+}
+.svg-sprite[data-name="/assets/img/ic_nav.svg"]:before {
+  background-size: 11478.813636363635%;
+  background-position: 8.141326444400859% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_news.svg"] {
+  width: 20px;
+}
+.svg-sprite[data-name="/assets/img/ic_news.svg"]:before {
+  background-size: 12626.695%;
+  background-position: 9.092781455922731% 0%;
+  padding-top: 81.82000000000001%!important
+}
+.svg-sprite[data-name="/assets/img/ic_vote.svg"] {
+  width: 22.5px;
+}
+.svg-sprite[data-name="/assets/img/ic_vote.svg"]:before {
+  background-size: 11223.728888888889%;
+  background-position: 9.980865728878285% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_twitter.svg"] {
+  width: 36px;
+}
+.svg-sprite[data-name="/assets/img/ic_twitter.svg"]:before {
+  background-size: 7014.830555555555%;
+  background-position: 11.01919023483744% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_votes.svg"] {
+  width: 25px;
+}
+.svg-sprite[data-name="/assets/img/ic_votes.svg"]:before {
+  background-size: 10101.356%;
+  background-position: 12.490506287347436% 0%;
+  padding-top: 124%!important
+}
+.svg-sprite[data-name="/assets/img/ic_ig.svg"] {
+  width: 36px;
+}
+.svg-sprite[data-name="/assets/img/ic_ig.svg"]:before {
+  background-size: 7014.830555555555%;
+  background-position: 13.630325158606361% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_link.svg"] {
+  width: 36px;
+}
+.svg-sprite[data-name="/assets/img/ic_link.svg"]:before {
+  background-size: 7014.830555555555%;
+  background-position: 15.156834806348193% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/ic_line.svg"] {
+  width: 36px;
+}
+.svg-sprite[data-name="/assets/img/ic_line.svg"]:before {
+  background-size: 7014.830555555555%;
+  background-position: 16.683344454090022% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/logo_PTS.svg"] {
+  width: 35.945px;
+}
+.svg-sprite[data-name="/assets/img/logo_PTS.svg"]:before {
+  background-size: 7025.564056196967%;
+  background-position: 18.20945177822394% 0%;
+  padding-top: 100.1530115454166%!important
+}
+.svg-sprite[data-name="/assets/img/pop_plus.svg"] {
+  width: 73px;
+}
+.svg-sprite[data-name="/assets/img/pop_plus.svg"]:before {
+  background-size: 3459.368493150685%;
+  background-position: 20.031896079620314% 0%;
+  padding-top: 73.97260273972603%!important
+}
+.svg-sprite[data-name="/assets/img/ic_PTS.svg"] {
+  width: 35.945px;
+}
+.svg-sprite[data-name="/assets/img/ic_PTS.svg"]:before {
+  background-size: 7025.564056196967%;
+  background-position: 22.746499750541698% 0%;
+  padding-top: 100.1530115454166%!important
+}
+.svg-sprite[data-name="/assets/img/who/img_leaderboard_shine.svg"] {
+  width: 149px;
+}
+.svg-sprite[data-name="/assets/img/who/img_leaderboard_shine.svg"]:before {
+  background-size: 1694.8583892617448%;
+  background-position: 25.42545486986495% 0%;
+  padding-top: 45.63758389261745%!important
+}
+.svg-sprite[data-name="/assets/img/ic_coin.svg"] {
+  width: 24.888px;
+}
+.svg-sprite[data-name="/assets/img/ic_coin.svg"]:before {
+  background-size: 10146.813725490194%;
+  background-position: 30.202351495790165% 0%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/who/shine_bg.svg"] {
+  width: 869.437px;
+}
+.svg-sprite[data-name="/assets/img/who/shine_bg.svg"]:before {
+  background-size: 290.45681285705575%;
+  background-position: 47.23002931332894% NaN%;
+  padding-top: 100%!important
+}
+.svg-sprite[data-name="/assets/img/pop_plus_money.svg"] {
+  width: 87px;
+}
+.svg-sprite[data-name="/assets/img/pop_plus_money.svg"]:before {
+  background-size: 2902.6885057471263%;
+  background-position: 67.81337623685633% 0%;
+  padding-top: 62.06896551724138%!important
+}
+.svg-sprite[data-name="/assets/img/ic_coins.svg"] {
+  width: 37.124px;
+}
+.svg-sprite[data-name="/assets/img/ic_coins.svg"]:before {
+  background-size: 6802.443163452213%;
+  background-position: 70.03092578414648% 0%;
+  padding-top: 68.59713392953346%!important
+}
+.svg-sprite[data-name="/assets/img/other/pts_footer_home.svg"] {
+  width: 85px;
+}
+.svg-sprite[data-name="/assets/img/other/pts_footer_home.svg"]:before {
+  background-size: 2970.9870588235294%;
+  background-position: 73.00805338930371% 0%;
+  padding-top: 42.70823529411765%!important
+}
+.svg-sprite[data-name="/assets/img/logo_pts_footer.svg"] {
+  width: 85px;
+}
+.svg-sprite[data-name="/assets/img/logo_pts_footer.svg"]:before {
+  background-size: 2970.9870588235294%;
+  background-position: 76.57313184766544% 0%;
+  padding-top: 42.70823529411765%!important
+}
+.svg-sprite[data-name="/assets/img/who/img_leaderboard_shine_animated.svg"] {
+  width: 156px;
+}
+.svg-sprite[data-name="/assets/img/who/img_leaderboard_shine_animated.svg"]:before {
+  background-size: 1618.8070512820514%;
+  background-position: 82.53964502335883% 0%;
+  padding-top: 45.51282051282051%!important
+}
+.svg-sprite[data-name="/assets/img/ic_badge.svg"] {
+  width: 49.455px;
+}
+.svg-sprite[data-name="/assets/img/ic_badge.svg"]:before {
+  background-size: 5106.337074107775%;
+  background-position: 85.36926608839511% 0%;
+  padding-top: 109.22050348801942%!important
+}
+.svg-sprite[data-name="/assets/img/hero/img_main_title.svg"] {
+  width: 358.24px;
+}
+.svg-sprite[data-name="/assets/img/hero/img_main_title.svg"]:before {
+  background-size: 704.9293769539972%;
+  background-position: 99.90771072295267% 0%;
+  padding-top: 44.52322465386333%!important
+}
