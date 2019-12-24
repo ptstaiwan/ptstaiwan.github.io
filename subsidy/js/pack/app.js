@@ -75,6 +75,7 @@
         avatar: function(arg$){
           var node;
           node = arg$.node;
+          return node.setAttribute('data-name', siteroot + "assets/img/cand/interview/talk_portrait_" + lc.target.name + ".png");
         },
         name: function(arg$){
           var node;
@@ -91,6 +92,11 @@
           node = arg$.node;
           return node.textContent = lc.target.brief;
         },
+        video: function(arg$){
+          var node;
+          node = arg$.node;
+          return node.setAttribute('src', lc.target.video) || 'about:blank';
+        },
         content: function(arg$){
           var node;
           node = arg$.node;
@@ -100,11 +106,6 @@
     });
     return ldc.action({
       video: function(){
-        var iframe;
-        if (!(iframe = ld$.find(document, '.ldcvmgr[data-name=video] iframe', 0))) {
-          return;
-        }
-        iframe.setAttribute('src', lc.target.video);
         return lda.ldcvmgr.get('video').then(function(){
           return iframe.setAttribute('src', 'about:blank');
         });
