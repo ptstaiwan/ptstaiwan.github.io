@@ -11,7 +11,9 @@
       twitter: function(){
         return window.open("http://twitter.com/share?url=" + window.location.href, '_blank');
       },
-      ig: function(){}
+      ig: function(){
+        return window.location.href = "https://www.instagram.com/pts.news/";
+      }
     });
   });
 })();
