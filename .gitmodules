@@ -1,4 +1,0 @@
-[submodule "subsidy"]
-	path = subsidy
-	url = git@github.com:ptstaiwan/subsidy
-	branch = gh-pages
